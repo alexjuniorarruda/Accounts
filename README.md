@@ -17,8 +17,17 @@ Accounts é um pequeno projeto em console que faz a simulação de uma agência 
 - Inquirer
 
 # Como executar o projeto
-- Pré-requisito: Node.js
+- Pré-requisitos: Node.js e NPM
 
 ```bash
-
+# fazer download do repositório
+# abrir o projeto no terminal
+# executar o projeto
+npm start
 ```
+
+# Autor
+
+Alex Junior Arruda
+
+https://www.linkedin.com/in/alex-jr-arruda/
