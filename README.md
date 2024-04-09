@@ -22,6 +22,8 @@ Accounts é um pequeno projeto em console que fiz através do curso de Node pelo
 ```bash
 # fazer download do repositório
 # abrir o projeto no terminal
+# instalar as dependencias com o comando
+npm install
 # executar o projeto
 npm start
 ```
